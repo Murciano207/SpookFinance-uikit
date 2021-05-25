@@ -26,12 +26,6 @@ export const links = [
     href: '/farms',
   },
   {
-    label: 'Buy',
-    icon: 'SwapVertIcon',
-    href: `https://yogi.fi/buy`,
-    external: true,
-  },
-  {
     label: 'Github',
     icon: 'GithubIcon',
     href: 'https://github.com/yogi-fi',
