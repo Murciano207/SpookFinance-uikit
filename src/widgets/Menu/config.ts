@@ -41,18 +41,14 @@ export const links = [
 
 export const socials = [
   {
+    label: 'Discord',
+    icon: 'DiscordIcon',
+    href: 'https://discord.gg/W6wUZ4tgNC',
+  },
+  {
     label: 'Telegram',
     icon: 'TelegramIcon',
-    items: [
-      {
-        label: 'English',
-        href: 'https://t.me/yogi_finance',
-      },
-      {
-        label: 'Announcements',
-        href: 'https://t.me/yogi_finance',
-      },
-    ],
+    href: 'https://t.me/yogi_finance',
   },
   {
     label: 'Twitter',
