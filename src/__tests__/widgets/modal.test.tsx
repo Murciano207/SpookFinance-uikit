@@ -29,11 +29,11 @@ it('renders correctly', () => {
           </div>
           <button
             aria-label="Close the dialog"
-            class="sc-jSgupP kKdZcv sc-gKsewC kpTpvg"
+            class="sc-jSgupP jfxlJH sc-gKsewC kpTpvg"
             scale="md"
           >
             <svg
-              class="sc-eCssSg hJmums"
+              class="sc-eCssSg jNzztw"
               color="primary"
               viewBox="0 0 24 24"
               width="20px"

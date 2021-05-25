@@ -7,7 +7,7 @@ it('renders link correctly', () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <a
-        class="sc-bdfBwQ sc-gsTCUz jGWcXd djpNeP"
+        class="sc-bdfBwQ sc-gsTCUz hLhdux djpNeP"
         color="primary"
         href="https://yogi.fi"
       >
@@ -22,7 +22,7 @@ it('renders link external link correctly', () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <a
-        class="sc-bdfBwQ sc-gsTCUz jGWcXd djpNeP"
+        class="sc-bdfBwQ sc-gsTCUz hLhdux djpNeP"
         color="primary"
         href="https://yogi.fi"
         rel="noreferrer noopener"
@@ -30,7 +30,7 @@ it('renders link external link correctly', () => {
       >
         Link
         <svg
-          class="sc-dlfnbm cEPYOQ"
+          class="sc-dlfnbm halBKQ"
           color="primary"
           viewBox="0 0 24 24"
           width="20px"
