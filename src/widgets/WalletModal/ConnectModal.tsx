@@ -25,7 +25,7 @@ const ConnectModal: React.FC<Props> = ({ login, onDismiss = () => null }) => (
       <WalletCard key={entry.title} login={login} walletConfig={entry} onDismiss={onDismiss} mb={index < config.length - 1 ? '8px' : '0'} />
     ))}
     <HelpLink href="https://docs.yogi.fi" external>
-      <HelpIcon color="primary" mr="6px" />
+      <HelpIcon color="text" mr="6px" />
       Learn how to connect
     </HelpLink>
   </Modal>
